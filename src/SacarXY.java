@@ -12,6 +12,7 @@ public class SacarXY {
             div= resta1/resta2;
             System.out.println("El resultado es X :"+div);
         }
+
         public void sacaY(double matriz[][],double C1,double C2){
             double mult1,mult2,div,resta1,resta2,mult11,mult22;
 
